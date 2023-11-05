@@ -1,0 +1,136 @@
+body {
+    background-color: rgb(227, 232, 233);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.bg-blue1 {
+    background-color: #222f3f;
+}
+
+.bg-blue2 {
+    background-color: #364759;
+}
+
+.text-align-C {
+    text-align: center;
+}
+
+.linkText {
+    color: #308088;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.7em;
+}
+
+h2 {
+    padding: 1em 1em 0 1em;
+    font-size: large;
+}
+
+/*-------Header--------*/
+
+header img {
+    width: 100px;
+    margin: 10px;
+}
+
+/*-------NAV--------*/
+nav {
+    height: auto;
+    font-size: 1em;
+    padding: 0.5em;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5em;
+}
+
+/*-------Tutti i DIV--------*/
+div {
+    margin: 2em;
+}
+
+/*---banner--*/
+#banner {
+    background-color: rgb(235, 97, 38);
+    padding: 0.5em;
+}
+
+#banner a {
+    text-decoration: none;
+    color: white;
+}
+
+/*---Holiday--*/
+#Holiday {
+    background-image: url(../images/bg-image.png);
+    background-position: center;
+    color: white;
+    padding: 3em;
+}
+
+#Holiday h1 {
+    font-size: 2em;
+}
+
+/*----Gift------*/
+#gift {
+    background-color: white;
+}
+
+#gift div {
+    text-align: center;
+}
+
+#gift img {
+    width: 250px;
+    height: 300px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    margin: 0 1em 1em 1em;
+    object-fit: cover;
+}
+
+/*----Prodotti-----*/
+.prodotti img {
+    width: 100%;
+}
+
+/*-------Footer--------*/
+#toTop {
+    height: auto;
+    font-size: 1em;
+    padding: 0.5em;
+    margin: 0;
+}
+
+#toTop a {
+    color: white;
+}
+
+footer {
+    text-align: center;
+    vertical-align: middle;
+    padding: 5em;
+}
+
+footer img {
+    width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
